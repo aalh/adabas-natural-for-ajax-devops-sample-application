@@ -198,7 +198,7 @@ DECIDE ON FIRST VALUE OF G-LANGUAGE
     MOVE 'the Weather in Greece'      TO G-ADDINFOHEAD3
     MOVE 'Imprint'                       TO G-ADDINFOHEAD4 
     MOVE 'Function not yet supported'  TO G-MYDATAALERTTXT
-    MOVE 'Identification not known'    TO G-LOGINALERTTXT 
+    MOVE 'Username not known'    TO G-LOGINALERTTXT 
     MOVE 'An unexpected error has occured'  TO G-ERRORMSG
     MOVE './images/RD-homeeng.png' TO G-HOMEPIC   
     MOVE './images/RD-myDataeng.png' TO G-MYDATAIMAGE
